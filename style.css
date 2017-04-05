@@ -1,0 +1,78 @@
+body{
+	background-color: #4169E1;
+	font-family: sans-seriff;
+}
+.nav{
+	width: 100%;
+	height: 50px;
+	padding: 5px;
+	color: WHITE;
+	background-color:FF0000;
+	text-align: right;
+	text-decoration: none;	
+}
+
+.nav h2{
+	float:left;
+	font-size: 2em;
+	margin-top:0px;
+}
+
+.nav li{
+	font-size: 20px;
+	padding: 5px;
+	display: inline;
+	list-style-type: none;
+	margin-right:10px;
+}
+
+.nav a{
+text-decoration:none;
+}
+
+.intro img{ 
+	width:20%;
+	border-radius: 50%;
+	text-decoration: none;
+	border: dotted 2px #424242;
+margin-left: 0%;	
+	
+}
+.intro{
+padding-top: 10px;
+}
+.intro h3{
+font-size: 3em;
+color: #FFFFFF;
+align: center;
+}
+
+.about {
+background-color: #4169E1;
+padding: 10px 0 10px 0;
+}
+
+.button{
+	width:200px;
+	height:50px;
+	text-align:center;
+	font-size:1.4em;
+	padding:8px;
+	border-radius:3px;
+	box-shadow:#18ffff 2px 2px 2px;
+	background-color: #9e9e9e;
+}
+
+.skills{
+background-color:#4169E1;
+padding:10%;
+}
+
+.social{
+padding:10%;
+}
+
+.footer{
+background-color: #4169E1;
+padding: 10%;
+}

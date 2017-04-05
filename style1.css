@@ -1,0 +1,131 @@
+body{
+	background-color: #FF0000;
+	font-family: sans-serif;
+	margin:0px;
+	padding:0;
+}
+
+.nav{
+	width: 100%;
+	height: 50px;
+	padding: 5px;
+	color: red;
+	background-color: #ADFF2F;
+	text-align: right;
+	text-decoration: none;	
+}
+
+.nav h2{
+	float: left;
+	font-size: 2em;
+	margin: 10px;
+		COLOR:GREEN
+}
+.nav img{
+	width:10%;
+	border-radius:50%;
+	border:solid 10px rgba (0,0,0,0.7);
+	border-color:FFFFFF;
+	border-style: 000000;
+	PADDING:30PX;
+}
+.nav li{
+	font-size: 15px;
+	padding: 5px;
+	display:inline;
+	list-style-type: none;
+	color:#ADFF2F;
+	margin-right:10px;
+
+		
+}	
+.nav a{
+	color:#000000;
+	text-decoration:none;
+}
+.intro img{
+	width:20%;
+	border-radius:50%;
+	border:solid 10px rgba (0,0,0,0.7);
+	border-color:FFFFFF;
+	border-style: 000000;
+	PADDING:30PX;
+}
+.intro h1{
+	font-size: 3em;
+	color:#000000;
+	text-align:center;
+}
+.intro h5{
+	font-size:2em;
+	text-align:center;
+	color:#FFFFFF;
+}
+.aboutc {
+	background-color: #FF0000;
+	padding:10px 0 50px 0;/*top left bottom right*/
+}
+.about {
+	width: 75%;
+	margin:auto;
+	BACKGROUND-COLOR:#ADFF2F
+}
+.myskills {
+	background-color: #FF0000;
+	padding:10px 0 50px 0;/*top left bottom right*/
+}
+.skills{
+	width: 75%;
+	margin:auto;
+	BACKGROUND-COLOR:#ADFF2F
+}
+.tables {
+	background-color: #FF0000;
+	padding:10px 0 50px 0;/*top left bottom right*/
+}
+.table{
+	width: 75%;
+	margin:auto;
+	BACKGROUND-COLOR:#ADFF2F
+}
+.socials {
+	background-color: #FF0000;
+	padding:10px 0 50px 0;/*top left bottom right*/
+}
+.social{
+	width: 75%;
+	margin:auto;
+	BACKGROUND-COLOR:#ADFF2F
+}
+.quals {
+	background-color: #FF0000;
+	padding:10px 0 50px 0;/*top left bottom right*/
+}
+.qualification{
+	width: 75%;
+	margin:auto;
+	BACKGROUND-COLOR:#ADFF2F
+}
+.button{
+	width:200px;
+	height:50px;
+	text-align:center;
+	font-size:1.4;
+	padding:8px;
+	border-radius:3px;
+	box-shadow:#
+}
+.FOOT {
+	background-color: #FF0000;
+	padding:10px 0 50px 0;/*top left bottom right*/
+}
+.footer{
+	width: 75%;
+	margin:auto;
+	BACKGROUND-COLOR:#FF0000;
+.FOOT h1{
+	color:000000;
+	font-size: 3em;
+	
+	text-align:center;
+}
